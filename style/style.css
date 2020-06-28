@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+body{
+    background-image: url("../img/me.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.me{
+    font-size: 30px;
+    font-family: 'Do Hyeon', sans-serif;
+    color: black;
+    border: 3px solid rgb(31, 0, 0);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 600px;
+}
+.click{
+    font-size: 20px;
+    font-family: 'Do Hyeon', sans-serif;
+    color: black;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-left: 600px;
+}
+.myimg{
+    float: left;
+    border: 1px solid rgb(255, 148, 25);
+}
+.list{
+    margin-top: 50px;
+}
+.meaning{
+    font-family: 'Nanum Myeongjo', serif;
+    margin-top: 400px;
+    text-align: center;
+    color: white;
+}
+.talk{
+    margin-top: 60px;
+    font-family: 'Nanum Myeongjo', serif;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-bottom: 100px;
+}
